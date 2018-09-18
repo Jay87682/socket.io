@@ -1,3 +1,5 @@
+#Used by piSignagePro build for 0.9.19 socket.io version
+
 # Socket.IO
 
 Socket.IO is a Node.JS project that makes WebSockets and realtime possible in
